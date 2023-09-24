@@ -83,7 +83,7 @@ section.imagem > p {
 
 section#q1 {
     background: black url('imagens/background001.jpg') center center no-repeat fixed; 
-    background-size: fixed;
+    background-size: cover;
     
     margin-bottom: 90px;
 }
